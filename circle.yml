@@ -7,6 +7,7 @@ python:
 
 dependencies:
   pre:
+    - pip install django
     - pip install django flake8
 
 database:
